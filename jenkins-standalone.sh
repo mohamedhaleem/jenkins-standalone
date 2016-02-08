@@ -8,7 +8,7 @@ JENKINS_VERSION="1.642.1"
 JENKINS_PLUGINS=(
     "ansible/0.4"
     "build-flow-plugin/0.18"
-    "build-monitor-plugin/1.8"
+    "build-monitor-plugin/latest"
     "build-name-setter/1.5.1"
     "build-pipeline-plugin/1.4.9"
     "credentials/1.24"
