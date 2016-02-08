@@ -22,7 +22,7 @@ JENKINS_PLUGINS=(
     "hipchat/1.0.0"
     "http-post/1.2"
     "javadoc/1.3"
-    "job-dsl/1.35"
+    "job-dsl/1.42"
     "junit/1.10"
     "log-parser/2.0"
     "logstash/1.1.1"
@@ -45,6 +45,7 @@ JENKINS_PLUGINS=(
     "ssh-slaves/1.10"
     "thinBackup/1.7.4"
     "token-macro/1.10"
+    "jenkinswalldisplay/0.6.30"
 )
 
 JENKINS_WAR_MIRROR="http://mirrors.jenkins-ci.org/war-stable"
