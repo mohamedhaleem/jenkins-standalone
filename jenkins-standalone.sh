@@ -2,11 +2,12 @@
 set -e
 
 # $JENKINS_VERSION should be an LTS release
-JENKINS_VERSION="1.625.3"
+JENKINS_VERSION="1.642.1"
 
 # List of Jenkins plugins, in the format "${PLUGIN_NAME}/${PLUGIN_VERSION}"
 JENKINS_PLUGINS=(
     "credentials/1.22"
+    "build-flow-plugin/0.18"
     "email-ext/2.39"
     "git/2.3.5"
     "git-client/1.16.1"
@@ -15,7 +16,7 @@ JENKINS_PLUGINS=(
     "job-dsl/1.35"
     "logstash/1.0.3"
     "metadata/1.1.0b"
-    "mesos/0.8.0"
+    "mesos/0.9.0"
     "monitoring/1.55.0"
     "parameterized-trigger/2.25"
     "rebuild/1.25"
