@@ -6,7 +6,6 @@ JENKINS_VERSION="1.642.1"
 
 # List of Jenkins plugins, in the format "${PLUGIN_NAME}/${PLUGIN_VERSION}"
 JENKINS_PLUGINS=(
-    "ansible/0.4"
     "build-flow-plugin/0.18"
     "build-monitor-plugin/latest"
     "build-name-setter/1.5.1"
@@ -39,6 +38,7 @@ JENKINS_PLUGINS=(
     "oauth-credentials/0.3"
     "parameterized-trigger/2.30"
     "pagerduty/0.2.2"
+    "plain-credentials/1.1"
     "rebuild/1.25"
     "saferestart/0.3"
     "scm-api/1.0"
