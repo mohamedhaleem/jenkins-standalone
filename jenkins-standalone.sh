@@ -24,7 +24,7 @@ JENKINS_PLUGINS=(
     "http-post/1.2"
     "javadoc/1.3"
     "job-dsl/1.42"
-    "jquery/1.11.2"
+    "jquery/1.11.2-0"
     "jquery-ui/1.0.2"
     "junit/1.10"
     "log-parser/2.0"
