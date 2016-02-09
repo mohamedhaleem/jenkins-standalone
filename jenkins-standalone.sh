@@ -39,7 +39,6 @@ JENKINS_PLUGINS=(
     "oauth-credentials/0.3"
     "parameterized-trigger/2.30"
     "pagerduty/0.2.2"
-    "plain-credentials/1.1"
     "rebuild/1.25"
     "saferestart/0.3"
     "scm-api/1.0"
