@@ -17,6 +17,8 @@ JENKINS_PLUGINS=(
     "git/2.4.2"
     "git-client/1.19.3"
     "git-changelog/1.2"
+    "github-api/1.72"
+    "github/1.17.0"
     "github-oauth/0.22.2"
     "greenballs/1.15"
     "hipchat/1.0.0"
